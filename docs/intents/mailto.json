@@ -1,0 +1,16 @@
+{
+  "app": "Email",
+  "action": "SEND",
+  "os": ["android", "ios"],
+  "schemas": ["mailto:"],
+  "description": "Compose e-mail",
+  "examples": [
+    "mailto:username@mailservice.spam?subject=Eggs+Spam"
+  ],
+  "params": {
+    "subject": "email subject",
+    "cc": "email carbon copy destinations",
+    "bcc": "email bcc destinations",
+    "body": "email body"
+  }
+}
