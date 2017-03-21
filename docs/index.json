@@ -1,5 +1,6 @@
 {
   "intents": [
-    "browser"
+    "browser",
+    "mailto"
   ]
 }
