@@ -1,0 +1,10 @@
+{
+  "app": "Browser",
+  "action" "VIEW",
+  "os": ["android", "iOS"],
+  "schemas": ["http://", "https://"],
+  "description": "Open any given url in browser",
+  "examples": ["http://github.com", "https://google.com"],
+  "params": {}
+  
+}
